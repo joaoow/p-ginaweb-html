@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	color: gray;
+	background-color:#F0F8FF;
+}
+
+
+
+.menu{
+	width: 700px;
+	margin-top: 10px;
+	background-color: #F8F8FF;
+	height: auto;
+	font-size: 18px; 
+}
+
